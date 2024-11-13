@@ -1,0 +1,17 @@
+/* เพิ่มการปรับแต่งของ navbar ตามต้องการ */
+.navbar {
+  background-color: #343a40; /* สีพื้นหลังของ navbar */
+}
+
+.nav-link {
+  font-size: 1.1rem; /* ขนาดตัวอักษรของลิงค์ใน navbar */
+  padding: 10px 15px; /* เพิ่มระยะห่างในแต่ละลิงค์ */
+}
+
+.nav-link:hover {
+  background-color: #007bff; /* เปลี่ยนสีพื้นหลังเมื่อ hover */
+}
+
+.navbar-brand {
+  font-size: 1.5rem; /* ขนาดตัวอักษรสำหรับโลโก้ */
+}
